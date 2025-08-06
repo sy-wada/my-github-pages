@@ -12,9 +12,9 @@ project:
     - Natural Language Processing
   authors:
     - name: Shoya Wada
-affiliation: Department of Transformative System for Medical Information, Graduate School of Medicine, The University of Osaka
+      affiliation: Department of Transformative System for Medical Information, Graduate School of Medicine, The University of Osaka
       orcid: 0000-0001-7055-1009
-  github:
+  github: sy-wada/my-github-pages
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
