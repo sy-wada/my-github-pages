@@ -46,3 +46,6 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
+
+# MyST build outputs
+_build
