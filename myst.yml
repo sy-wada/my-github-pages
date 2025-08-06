@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 2539980a-910f-4e68-a757-1b86eb389b8d
+  title: Research Achievements of S. Wada
+  description: Research Achievements of S. Wada
+  keywords:
+    - Research Achievements
+    - Shoya Wada
+    - The University of Osaka
+    - Medical Informatics
+    - Natural Language Processing
+  authors:
+    - name: Shoya Wada
+affiliation: Department of Transformative System for Medical Information, Graduate School of Medicine, The University of Osaka
+      orcid: 0000-0001-7055-1009
+  github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
