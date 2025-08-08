@@ -88,7 +88,7 @@ We focused on the top 20 results to align with practical user behavior. Mean ave
 
 ## Results
 
-Overall, the Word2Vec approach had the lowest performance, while the Jaccard index and GLuCoSE v1 showed comparable results. GLuCoSE v2 significantly outperformed all other models. Our fine-tuned model achieved nDCG@20 of 76.2%, Recall@20 of 90.8%, and Recall@100 of 95.4% with 50K in-house entries.
+Table 1 summarizes the performance metrics for each method. The Word2Vec approach had the lowest performance, while the Jaccard index and GLuCoSE v1 showed comparable results. GLuCoSE v2 significantly outperformed all other models. Our fine-tuned model achieved nDCG@20 of 76.2%, Recall@20 of 90.8%, and Recall@100 of 95.4% with 50K in-house entries.
 
 ### Table 1. Performance metrics of different methods in MedDRA/J terminology search
 
@@ -108,6 +108,8 @@ Increasing the volume of the in-house database dramatically improved nDCG@20, Re
 
 Effect of in-house database volume on model performance metrics (nDCG@20, Recall@20, Recall@100) across methods.
 ```
+
+Table 2 presents the re-ranking evaluation results for 195 challenging cases. All four LLMs significantly outperformed random shuffling. Cloud-based LLMs were statistically more accurate than local LLMs in Recall@20. Interestingly, differences between lightweight and larger models within the cloud-based LLMs (GPT-4o-mini vs. GPT-4o) and local LLMs (8B vs. 70B) were not statistically significant.
 
 ### Table 2. Re-ranking performance of large language models compared to baseline (195 challenging cases)
 
