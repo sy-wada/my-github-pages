@@ -25,6 +25,7 @@ Implementation of machine learning algorithms and models to solve healthcare-rel
 - **Name**: Shoya Wada
 - **Affiliation**: Department of Transformative System for Medical Information, Graduate School of Medicine, The University of Osaka
 - **ORCID**: [0000-0001-7055-1009](https://orcid.org/0000-0001-7055-1009)
+- **researchmap**: [和田 聖哉 (Shoya Wada)](https://researchmap.jp/sy-wada)
 - **GitHub**: [sy-wada](https://github.com/sy-wada)
 
 ## Navigation
