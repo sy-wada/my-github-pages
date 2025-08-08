@@ -22,9 +22,9 @@ site:
     - title: Home
       url: /
     - title: Research Publications
-      url: /research/publications
+      url: /publications
     - title: Presentations & Posters
-      url: /research/presentations
+      url: /presentations
   options:
     hide_header_links: true
   # options:

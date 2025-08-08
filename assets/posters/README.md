@@ -5,7 +5,7 @@ This directory contains conference poster files.
 ## Current Posters
 
 ### 2025
-- `wada_medinfo2025_poster.pdf` - [MEDINFO 2025](https://medinfo2025.org/) poster
+- [`wada_medinfo2025_poster.pdf`](./wada_medinfo2025_poster.pdf) - [MEDINFO 2025](https://medinfo2025.org/) poster
 
 ### 2024
 - `wada_mie2024_poster.pdf` - MIE 2024 poster
