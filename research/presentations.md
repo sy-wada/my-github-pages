@@ -5,12 +5,13 @@
 ### International Conferences
 
 #### 2020
-1. **"Extracting Symptom Names and Disease-Symptom Relationships from Web Texts Using a Multi-Column Convolutional Neural Network**: MedInfo 2019
+1. **"Extracting Symptom Names and Disease-Symptom Relationships from Web Texts Using a Multi-Column Convolutional Neural Network**
+   - **Conference**: MedInfo 2019
    - **Date**: August 26-30, 2019
    - **Location**: Lyon, France
    - DOI: [10.3233/SHTI190256](https://doi.org/10.3233/SHTI190256)
    - PubMed: [PMID: 31437958](https://pubmed.ncbi.nlm.nih.gov/31437958/)
-   - **Abstract**: This presentation introduces a novel framework for implementing large language models in clinical decision support systems, demonstrating significant improvements in diagnostic accuracy and workflow efficiency.
+   - **Abstract**: 
 
 ### Domestic Conferences
 
@@ -26,7 +27,7 @@
    - **Poster Session**: Aug11-065 - Poster Session Monday (13:15-14:00, 1F Poster Area)
    - **Poster Size**: A0 (841 × 1189 mm)
    - DOI: [10.3233/SHTI251227](https://doi.org/10.3233/SHTI251227)
-   - **Resources**: [Poster PDF](../assets/posters/wada_medinfo2025_poster.pdf) | [Summary Slides](/assets/presentations/wada_mie2024_summary.pdf) | [Details Page](/presentations/wada_medinfo2025/)
+   - **Resources**: [Poster PDF](../assets/posters/wada_medinfo2025_poster.pdf) | [Details Page](../research/presentations/20250811_medinfo2025_poster.md)
 
 ### Domestic Conferences
 
