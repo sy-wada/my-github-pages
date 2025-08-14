@@ -27,6 +27,7 @@
    - **Poster Session**: Aug11-065 - Poster Session Monday (13:15-14:00, 1F Poster Area)
    - **Poster Size**: A0 (841 × 1189 mm)
    - DOI: [10.3233/SHTI251227](https://doi.org/10.3233/SHTI251227)
+   - PubMed: [PMID: 40776244](https://pubmed.ncbi.nlm.nih.gov/40776244/)
    - **Resources**: [Poster PDF](../assets/posters/wada_medinfo2025_poster.pdf) | [Details Page](../research/presentations/20250811_medinfo2025_poster.md)
 
 ### Domestic Conferences

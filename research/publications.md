@@ -8,26 +8,9 @@
    - PubMed: [PMID: 39843717](https://pubmed.ncbi.nlm.nih.gov/39843717/)
 
 ### 2024
-
-1. Okada K, Sugimoto K, **Wada S**, Konishi S, Manabe S, Matsumura Y, Takeda T. Development of the Clinical Specimen Information Management System for Multicenter Clinical Studies. *Stud Health Technol Inform*. 2024 Jan 25;310:119-123.
-   - DOI: [10.3233/SHTI230939](https://doi.org/10.3233/shti230939)
-   - PubMed: [PMID: 38269777](https://pubmed.ncbi.nlm.nih.gov/38269777/)
-
-2. Konishi S, Manabe S, Shimai Y, Namiuchi Y, Sugimoto K, **Wada S**, Okada K, Matsumura Y, Takeda T. Implementation of a Multilingual Electronic Medical Questionnaire: For Use Inside or Outside the Hospital. *Stud Health Technol Inform*. 2024 Jan 25;310:1360-1361.
-   - DOI: [10.3233/SHTI231194](https://doi.org/10.3233/shti231029)
-   - PubMed: [PMID: 38270043](https://pubmed.ncbi.nlm.nih.gov/38270043/)
-
-3. Sugimoto K, **Wada S**, Konishi S, Okada K, Manabe S, Matsumura Y, Takeda T. Classification of Diagnostic Certainty in Radiology Reports with Deep Learning. *Stud Health Technol Inform*. 2024 Jan 25;310:569-573. doi: . PMID: 38269873.
-   - DOI: [10.3233/SHTI231029](https://doi.org/10.3233/shti231194)
-   - PubMed: [PMID: 38269873](https://pubmed.ncbi.nlm.nih.gov/38269873/)
-
 4. **Wada S**, Takeda T, Okada K, Manabe S, Konishi S, Kamohara J, Matsumura Y. Oversampling effect in pretraining for bidirectional encoder representations from transformers (BERT) to localize medical BERT and enhance biomedical BERT. *Artif Intell Med*. 2024 Jul;153:102889. Epub 2024 May 5. PMID: 38728811.
    - DOI: [10.1016/j.artmed.2024.102889](https://doi.org/10.1016/j.artmed.2024.102889)
    - PubMed: [PMID: 38728811](https://pubmed.ncbi.nlm.nih.gov/38728811/)
-
-5. Sugimoto K, **Wada S**, Konishi S, Okada K, Nakashima K, Matsumura Y, Takeda T. Assessment of Follow-Up for Pulmonary Nodules from Radiology Reports with Natural Language Processing. *Stud Health Technol Inform*. 2024 Aug 22;316:1795-1799.
-   - DOI: [10.3233/SHTI240779](https://doi.org/10.3233/shti240779)
-   - PubMed: [PMID: 39176839](https://pubmed.ncbi.nlm.nih.gov/39176839/)
 
 ### 2023
 1. Kodama K, Konishi S, Manabe S, Okada K, Yamaguchi J, **Wada S**, Sugimoto K, Itoh S, Takahashi D, Kawasaki R, Matsumura Y, Takeda T. Impact of an Electronic Medical Record-Connected Questionnaire on Efficient Nursing Documentation: Usability and Efficacy Study. *JMIR Nurs*. 2023 Sep 25;6:e51303.
@@ -48,20 +31,6 @@
 2. Wang B, Takeda T, Sugimoto K, Zhang J, **Wada S**, Konishi S, Manabe S, Okada K, Matsumura Y. Automatic creation of annotations for chest radiographs based on the positional information extracted from radiographic image reports. *Comput Methods Programs Biomed*. 2021 Sep;209:106331.Epub 2021 Aug 4.
    - DOI: [10.1016/j.cmpb.2021.106331](https://doi.org/10.1016/j.cmpb.2021.106331)
    - PubMed: [PMID: 34418813](https://pubmed.ncbi.nlm.nih.gov/34418813/)
-
-### 2020
-1. Sugimoto K, Takeda T, **Wada S**, Yamahata A, Konishi S, Manabe S, Matsumura Y. End-to-End Approach for Structuring Radiology Reports. *Stud Health Technol Inform*. 2020 Jun 16;270:203-207.
-   - DOI: [10.3233/SHTI200151](https://doi.org/10.3233/shti200151)
-   - PubMed: [PMID: 32570375](https://pubmed.ncbi.nlm.nih.gov/32570375/)
-
-2. **Wada S**, Iida R, Torisawa K, Takeda T, Manabe S, Matsumura Y. Extracting Symptom Names and Disease-Symptom Relationships from Web Texts Using a Multi-Column Convolutional Neural Network. *Stud Health Technol Inform*. 2019 Aug 21;264:423-427.
-   - DOI: [10.3233/SHTI190256](https://doi.org/10.3233/shti190256)
-   - PubMed: [PMID: 31437958](https://pubmed.ncbi.nlm.nih.gov/31437958/)
-
-### 2019
-1. Takeda T, Zhang D, **Wada S**, Nakagawa A, Sugimoto K, Manabe S, Matsumura Y. The Acquisition of Structured Clinical Data from a Document-Based Electronic Medical Record System. *Stud Health Technol Inform*. 2019 Aug 21;264:1600-1601.
-   - DOI: [10.3233/SHTI190554](https://doi.org/10.3233/shti190256)
-   - PubMed: [PMID: 31438251](https://pubmed.ncbi.nlm.nih.gov/31438251/)
 
 ### 2018
 1. Kawahara Y, **Wada S**, Nijima H, Hayase T, Furukawa R, Ashizawa K, Morimoto A. Rhinocerebral Mucormycosis With Temporal Artery Thrombosis in an Adolescent Following HLA-haploidentical Stem Cell Transplantation. *J Pediatr Hematol Oncol*. 2018 Oct;40(7):e461-e463.
@@ -85,7 +54,30 @@
    - **Poster Session**: Aug11-065 - Poster Session Monday (13:15-14:00, 1F Poster Area)
    - **Poster Size**: A0 (841 × 1189 mm)
    - DOI: [10.3233/SHTI251227](https://doi.org/10.3233/SHTI251227)
+   - PubMed: [PMID: 40776244](https://pubmed.ncbi.nlm.nih.gov/40776244/)
    - **Resources**: [Poster PDF](../assets/posters/wada_medinfo2025_poster.pdf) | [Details Page](../research/presentations/20250811_medinfo2025_poster.md)
+
+#### 2024
+1. Okada K, Sugimoto K, **Wada S**, Konishi S, Manabe S, Matsumura Y, Takeda T. Development of the Clinical Specimen Information Management System for Multicenter Clinical Studies. *Stud Health Technol Inform*. 2024 Jan 25;310:119-123.
+   - DOI: [10.3233/SHTI230939](https://doi.org/10.3233/shti230939)
+   - PubMed: [PMID: 38269777](https://pubmed.ncbi.nlm.nih.gov/38269777/)
+
+2. Konishi S, Manabe S, Shimai Y, Namiuchi Y, Sugimoto K, **Wada S**, Okada K, Matsumura Y, Takeda T. Implementation of a Multilingual Electronic Medical Questionnaire: For Use Inside or Outside the Hospital. *Stud Health Technol Inform*. 2024 Jan 25;310:1360-1361.
+   - DOI: [10.3233/SHTI231194](https://doi.org/10.3233/shti231029)
+   - PubMed: [PMID: 38270043](https://pubmed.ncbi.nlm.nih.gov/38270043/)
+
+3. Sugimoto K, **Wada S**, Konishi S, Okada K, Manabe S, Matsumura Y, Takeda T. Classification of Diagnostic Certainty in Radiology Reports with Deep Learning. *Stud Health Technol Inform*. 2024 Jan 25;310:569-573. doi: . PMID: 38269873.
+   - DOI: [10.3233/SHTI231029](https://doi.org/10.3233/shti231194)
+   - PubMed: [PMID: 38269873](https://pubmed.ncbi.nlm.nih.gov/38269873/)
+
+4. Sugimoto K, **Wada S**, Konishi S, Okada K, Nakashima K, Matsumura Y, Takeda T. Assessment of Follow-Up for Pulmonary Nodules from Radiology Reports with Natural Language Processing. *Stud Health Technol Inform*. 2024 Aug 22;316:1795-1799.
+   - DOI: [10.3233/SHTI240779](https://doi.org/10.3233/shti240779)
+   - PubMed: [PMID: 39176839](https://pubmed.ncbi.nlm.nih.gov/39176839/)
+
+#### 2020
+1. Sugimoto K, Takeda T, **Wada S**, Yamahata A, Konishi S, Manabe S, Matsumura Y. End-to-End Approach for Structuring Radiology Reports. *Stud Health Technol Inform*. 2020 Jun 16;270:203-207.
+   - DOI: [10.3233/SHTI200151](https://doi.org/10.3233/shti200151)
+   - PubMed: [PMID: 32570375](https://pubmed.ncbi.nlm.nih.gov/32570375/)
 
 #### 2019
 1. **"Extracting Symptom Names and Disease-Symptom Relationships from Web Texts Using a Multi-Column Convolutional Neural Network**
@@ -94,6 +86,10 @@
    - **Location**: Lyon, France
    - DOI: [10.3233/SHTI190256](https://doi.org/10.3233/SHTI190256)
    - PubMed: [PMID: 31437958](https://pubmed.ncbi.nlm.nih.gov/31437958/)
+
+2. Takeda T, Zhang D, **Wada S**, Nakagawa A, Sugimoto K, Manabe S, Matsumura Y. The Acquisition of Structured Clinical Data from a Document-Based Electronic Medical Record System. *Stud Health Technol Inform*. 2019 Aug 21;264:1600-1601.
+   - DOI: [10.3233/SHTI190554](https://doi.org/10.3233/shti190256)
+   - PubMed: [PMID: 31438251](https://pubmed.ncbi.nlm.nih.gov/31438251/)
 
 
 ---
